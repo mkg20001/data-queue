@@ -13,5 +13,13 @@
     "async"
   ],
   "author": "Maciej Krüger <mkg20001@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/data-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkg20001/data-queue/issues"
+  },
+  "homepage": "https://github.com/mkg20001/data-queue#readme"
 }

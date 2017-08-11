@@ -1,3 +1,7 @@
+"use strict"
+
+const EE = require("events").EventEmitter
+
 function DataQueue() {
   const ee = new EE()
   let q = []
