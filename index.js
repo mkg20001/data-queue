@@ -38,7 +38,8 @@ function DataQueue() {
         unleak()
         return cb(null, q.shift())
       })
-    }
+    },
+    height: () => q.length
   }
 }
 module.exports = DataQueue

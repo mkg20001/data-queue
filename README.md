@@ -19,4 +19,6 @@ queue.append("Hi there")
 queue.error(new Error("Something fatal happened"))
 
 queue.append("What's up?") //This won't append the data. instead it will return the error
+
+console.log(queue.height()) //This gets the number of items in the queue
 ```
