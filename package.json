@@ -1,6 +1,6 @@
 {
   "name": "data-queue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Queue and get data",
   "main": "index.js",
   "scripts": {
